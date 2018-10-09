@@ -1,0 +1,12 @@
+h1 {font-size: 48px;
+  font-family: cursive;
+  background-color: dodgerblue;
+}
+p {
+  color: black;
+}
+h1 {margin-bottom: auto;
+  font-weight: bold;
+}
+body {background-color: dodgerblue;
+}
